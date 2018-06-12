@@ -1,0 +1,25 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>你好</pattern>
+        <template>
+            欢迎使用智能问答系统。
+        </template>
+    </category>
+
+    <category>
+        <pattern>方向盘抖动的原因是什么</pattern>
+        <template>
+            变速箱有问题。
+        </template>
+    </category>
+
+    <category>
+        <pattern>熄火的原因是什么</pattern>
+        <template>
+            考虑汽油燃烧不充分，导致的熄火或者无法加速。
+        </template>
+    </category>
+
+</aiml>
